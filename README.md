@@ -17,7 +17,7 @@ The goal of this assignment is to:
 ## 📂 Repository Contents
 - `pom.xml` → Maven dependencies (`OkHttp`, `Jackson`, `exec-maven-plugin`)
 - `src/main/java/com/example/dropbox/Main.java` → Java program that calls Dropbox API
-- `Dropbox_API_Assignment_Filled.docx` → Completed assignment template with API details
+- `Dropbox_API_Assignment.docx` → Completed assignment template with API details
 
 ---
 
